@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSolarSystem", "TheSolarSystem\TheSolarSystem\TheSolarSystem.csproj", "{6BB3DF0A-4A28-42BF-B13E-3CE0FB42E6C9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TheSolarSystemContent", "TheSolarSystem\TheSolarSystemContent\TheSolarSystemContent.contentproj", "{63D34AC3-D8FF-4B25-B883-F7DC061D1B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB3DF0A-4A28-42BF-B13E-3CE0FB42E6C9}.Debug|x86.ActiveCfg = Debug|x86
+		{6BB3DF0A-4A28-42BF-B13E-3CE0FB42E6C9}.Debug|x86.Build.0 = Debug|x86
+		{6BB3DF0A-4A28-42BF-B13E-3CE0FB42E6C9}.Release|x86.ActiveCfg = Release|x86
+		{6BB3DF0A-4A28-42BF-B13E-3CE0FB42E6C9}.Release|x86.Build.0 = Release|x86
+		{63D34AC3-D8FF-4B25-B883-F7DC061D1B60}.Debug|x86.ActiveCfg = Debug|x86
+		{63D34AC3-D8FF-4B25-B883-F7DC061D1B60}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

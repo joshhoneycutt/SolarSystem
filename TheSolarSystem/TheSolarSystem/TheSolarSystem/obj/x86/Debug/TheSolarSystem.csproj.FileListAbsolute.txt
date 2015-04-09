@@ -1,0 +1,32 @@
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\earth.xnb
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\TheSolarSystem.exe
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\TheSolarSystem.pdb
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.exe
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.pdb
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\sun.xnb
+c:\users\josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\mercury.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\venus.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\mars.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\jupiter.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\saturn.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\uranus.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\neptune.xnb
+C:\Users\Josh\documents\visual studio 2013\Projects\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\pluto.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\earth.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\sun.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\mercury.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\venus.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\mars.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\jupiter.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\saturn.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\uranus.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\neptune.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\Content\Images\pluto.xnb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\TheSolarSystem.exe
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\bin\x86\Debug\TheSolarSystem.pdb
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.exe
+C:\Users\Josh\Desktop\Homework 1\TheSolarSystem\TheSolarSystem\TheSolarSystem\obj\x86\Debug\TheSolarSystem.pdb
